@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966](https://user-images.githubusercontent.com/60468275/90711830-591e2480-e2bf-11ea-9979-c8d9172611ee.gif)
-
 
 <!--
 **vvHacker007/vvHacker007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
