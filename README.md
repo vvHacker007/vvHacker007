@@ -11,6 +11,7 @@ I'm a Sophomore🎓 pursuing Computer-Science-Engineering from SRMIST,KTR.I'm a 
 
 ![hello there computer geeks text gif - Google Search](https://user-images.githubusercontent.com/60468275/90991034-b4079280-e5c3-11ea-9854-080fb03cdc75.jpg)  
 
+<!--
 <div>
   <p><img align="left" width="420" height="350" src=""></p>
   <p><img align="right" src="![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966](https://user-images.githubusercontent.com/60468275/90991130-8d962700-e5c4-11ea-8d37-6ebc8e95bba8.gif)"></p>
