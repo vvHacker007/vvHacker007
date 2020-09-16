@@ -1,5 +1,5 @@
 # Hello there👋
-![hello there computer geeks text gif - Google Search](https://user-images.githubusercontent.com/60468275/90990215-32ad0180-e5bd-11ea-8bf2-ea8f589a9758.gif)
+<img src="Welcome.gif" alt="drawing" width="200"/>
 
 ## Vedansh here🙋🏻‍♂️
 ## Here is something you should know about me😄
