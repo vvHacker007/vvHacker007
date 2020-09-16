@@ -1,5 +1,5 @@
 # Hello there👋
-<img src="Welcome.gif" alt="drawing" width="1500"/>
+<img src="Welcome.gif" alt="welcome" width="300"/>
 
 ## Vedansh here🙋🏻‍♂️
 ## Here is something you should know about me😄
@@ -9,7 +9,7 @@ I'm a Sophomore🎓 pursuing Computer-Science-Engineering from SRMIST,KTR.I'm a 
 
 🌱 I’m currently learning Deep Learning & Computer Vision.
 
-<img src="image.jpg" alt="drawing" width="300"/> 
+<img src="image.jpg" alt="computer" width="300"/> 
 
 <!--
 <div>
