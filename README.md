@@ -1,5 +1,5 @@
 # Hello there👋
-<img src="Welcome.gif" alt="drawing" width="300"/>
+<img src="https://github.com/vvHacker007/vvHacker007/blob/master/Welcome.gif" alt="welcome" width="300"/>
 
 ## Vedansh here🙋🏻‍♂️
 ## Here is something you should know about me😄
@@ -9,7 +9,7 @@ I'm a Sophomore🎓 pursuing Computer-Science-Engineering from SRMIST,KTR.I'm a 
 
 🌱 I’m currently learning Deep Learning & Computer Vision.
 
-![hello there computer geeks text gif - Google Search](https://user-images.githubusercontent.com/60468275/90991034-b4079280-e5c3-11ea-9854-080fb03cdc75.jpg)  
+<img src="https://github.com/vvHacker007/vvHacker007/blob/master/image.jpg" alt="computer" width="300"/> 
 
 <!--
 <div>
