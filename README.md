@@ -9,7 +9,7 @@ I'm a Sophomore🎓 pursuing Computer-Science-Engineering from SRMIST,KTR.I'm a 
 
 🌱 I’m currently learning Deep Learning & Computer Vision.
 
-![hello there computer geeks text gif - Google Search](https://user-images.githubusercontent.com/60468275/90991034-b4079280-e5c3-11ea-9854-080fb03cdc75.jpg)  
+<img src="image.jpg" alt="drawing" width="300"/> 
 
 <!--
 <div>
