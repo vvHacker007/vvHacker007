@@ -1,5 +1,5 @@
 # Hello there👋
-<img src="Welcome.gif" alt="drawing" width="300"/>
+<img src="Welcome.gif" alt="drawing" width="1500"/>
 
 ## Vedansh here🙋🏻‍♂️
 ## Here is something you should know about me😄
