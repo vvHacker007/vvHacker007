@@ -9,10 +9,11 @@ I'm a Sophomore🎓 pursuing Computer-Science-Engineering from SRMIST,KTR.I'm a 
 
 🌱 I’m currently learning Deep Learning & Computer Vision.
 
-
+<img src="https://github.com/vvHacker007/vvHacker007/blob/master/image.jpg" alt="computer" width="300"/>
+<img width="300" height="250" src=https://github-readme-stats.vercel.app/api/top-langs/?username=vvHacker007&show_icons=true&theme=tokyonight>
 <img align="right" width="300" height="250" src="https://github-readme-stats.vercel.app/api?username=vvHacker007&show_icons=true&theme=tokyonight">
 
-<img src="https://github.com/vvHacker007/vvHacker007/blob/master/image.jpg" alt="computer" width="300"/>
+
 
 ## MEANWHILE FEEL FREE TO CHECKOUT MY REPOSITORIES✌!!!
 <img src="https://github.com/vvHacker007/vvHacker007/blob/master/check this.gif" alt="check_my_repos" width="300" align="left" /> 
