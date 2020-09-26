@@ -9,12 +9,13 @@ I'm a Sophomore🎓 pursuing Computer-Science-Engineering from SRMIST,KTR.I'm a 
 🔭 I’m currently doing contributions in an opensource event HakinCodes'20
 🌱 I’m currently learning Deep Learning & Computer Vision.
 
-<img align="left" src="https://github.com/vvHacker007/vvHacker007/blob/master/image.jpg" alt="computer" width="300"/>
+<img src="https://github.com/vvHacker007/vvHacker007/blob/master/image.jpg" alt="computer" width="300"/>
+
+
 <details>
   <summary>:zap: Github Stats</summary>
   <img align="right" width="250" height="300" src="https://github-readme-stats.vercel.app/api?username=vvHacker007&show_icons=true&theme=tokyonight" alt="Stats">
   <img align="left" width="250" height="300" src=https://github-readme-stats.vercel.app/api/top-langs/?username=vvHacker007&layout=compact&show_icons=true&theme=tokyonight alt="Languages used">
-
 </details>
 
 
