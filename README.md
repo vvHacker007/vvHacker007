@@ -13,7 +13,7 @@ I'm a Sophomore🎓 pursuing Computer-Science-Engineering from SRMIST,KTR.I'm a 
 <details>
   <summary>:zap: Github Stats</summary>
   <img align="right" width="250" height="300" src="https://github-readme-stats.vercel.app/api?username=vvHacker007&show_icons=true&theme=tokyonight" alt="Stats">
-  <img align="left width="250" height="300" src=https://github-readme-stats.vercel.app/api/top-langs/?username=vvHacker007&layout=compact&show_icons=true&theme=tokyonight alt="Languages used">
+  <img align="left" width="250" height="300" src=https://github-readme-stats.vercel.app/api/top-langs/?username=vvHacker007&layout=compact&show_icons=true&theme=tokyonight alt="Languages used">
 
 </details>
 
