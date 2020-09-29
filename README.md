@@ -10,7 +10,7 @@ I'm a Sophomore🎓 pursuing Computer-Science-Engineering from SRMIST,KTR.I'm a 
 
 🌱 I’m currently learning Deep Learning & Computer Vision.
 
-<img src="https://github.com/vvHacker007/vvHacker007/blob/master/image.jpg" alt="computer" width="300">
+<img src="https://github.com/vvHacker007/vvHacker007/blob/master/image.jpg" alt="computer" width="300"/>
 
 <details>
   <summary>:zap: Github Stats</summary>
