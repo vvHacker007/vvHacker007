@@ -22,11 +22,11 @@ I'm a Sophomore🎓 pursuing Computer-Science-Engineering from SRMIST,KTR.I'm a 
 
 ## Connect with me
 <p>
-  <a href="https://www.linkedin.com/in/vedansh-vijaywargiya/"><img src="https://github.com/vvHacker007/vvHacker007/blob/master/Linkedin.png" height="60px" width="60px" alt="LinkedIn"></a>
-  <a href="mailto:vedanshv2002@gmail.com?subject = Hello from your GitHub README&body = Message"><img src="https://github.com/vvHacker007/vvHacker007/blob/master/Gmail.png" height="60px" width="60px" alt="Gmail" ></a>
-  <a href="https://www.facebook.com/vedansh.vijaywargiya/"><img src="https://github.com/vvHacker007/vvHacker007/blob/master/Facebook.png" height="60px" width="60px" alt="Facebook"></a>
-  <a href="https://twitter.com/vedansh_v_"><img src="https://github.com/vvHacker007/vvHacker007/blob/master/Twitter.png" height="60px" width="60px" alt="Twitter"></a>
-  <a href="https://www.instagram.com/vedv_2002/"><img src="https://github.com/vvHacker007/vvHacker007/blob/master/Instagram.png" height="60px" width="60px" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/vedansh-vijaywargiya/"><img src="https://github.com/vvHacker007/vvHacker007/blob/master/Linkedin.png" height="40px" width="40px" alt="LinkedIn"></a>
+  <a href="mailto:vedanshv2002@gmail.com?subject = Hello from your GitHub README&body = Message"><img src="https://github.com/vvHacker007/vvHacker007/blob/master/Gmail.png" height="40px" width="40px" alt="Gmail" ></a>
+  <a href="https://www.facebook.com/vedansh.vijaywargiya/"><img src="https://github.com/vvHacker007/vvHacker007/blob/master/Facebook.png" height="40px" width="40px" alt="Facebook"></a>
+  <a href="https://twitter.com/vedansh_v_"><img src="https://github.com/vvHacker007/vvHacker007/blob/master/Twitter.png" height="40px" width="40px" alt="Twitter"></a>
+  <a href="https://www.instagram.com/vedv_2002/"><img src="https://github.com/vvHacker007/vvHacker007/blob/master/Instagram.png" height="40px" width="40px" alt="Instagram"></a>
 </p>
 
 ## MEANWHILE FEEL FREE TO CHECKOUT MY REPOSITORIES✌!!!
