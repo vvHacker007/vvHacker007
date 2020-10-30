@@ -20,7 +20,7 @@ I'm a Sophomore🎓 pursuing Computer-Science-Engineering from SRMIST,KTR.I'm a 
   <img src='https://github-profile-trophy.vercel.app/?username=vvHacker007&theme=onedark&row=2&column=3&margin-w=15&margin-h=15' width='500'>
 </details>
 
-## Connect with me -
+## Connect with me
 <p>
   <a href="https://www.linkedin.com/in/vedansh-vijaywargiya/"><img src="https://github.com/vvHacker007/vvHacker007/blob/master/Linkedin.png" height="60px" width="60px" alt="LinkedIn"></a>
   <a href="mailto:vedanshv2002@gmail.com?subject = Hello from your GitHub README&body = Message"><img src="https://github.com/vvHacker007/vvHacker007/blob/master/Gmail.png" height="60px" width="60px" alt="Gmail" ></a>
