@@ -20,8 +20,13 @@ I'm a Sophomore🎓 pursuing Computer-Science-Engineering from SRMIST,KTR.I'm a 
   <img src='https://github-profile-trophy.vercel.app/?username=vvHacker007&theme=onedark&row=2&column=3&margin-w=15&margin-h=15' width='500'>
 </details>
 
-## Connect with me via -
-<a href="https://www.linkedin.com/in/vedansh-vijaywargiya/"><img src="https://github.com/vvHacker007/vvHacker007/blob/master/Linkedin.png" height="60px" width="60px" alt="LinkedIn"></a>
+## Connect with me -
+<p>
+  <a href="https://www.linkedin.com/in/vedansh-vijaywargiya/"><img src="https://github.com/vvHacker007/vvHacker007/blob/master/Linkedin.png" height="60px" width="60px" alt="LinkedIn"></a>
+  <a href="mailto:vedanshv2002@gmail.com?subject = Hello from your GitHub README&body = Message"><img src="https://github.com/vvHacker007/vvHacker007/blob/master/Gmail.png" height="60px" width="60px" alt="Gmail" ></a>
+  <a href="https://www.instagram.com/vedv_2002/"><img src="https://github.com/vvHacker007/vvHacker007/blob/master/Instagram.png" height="60px" width="60px" alt="Instagram"></a>
+  <a href="https://twitter.com/vedansh_v_"><img src="https://github.com/vvHacker007/vvHacker007/blob/master/Twitter.png" height="60px" width="60px" alt="Twitter"></a>
+</p>
 
 ## MEANWHILE FEEL FREE TO CHECKOUT MY REPOSITORIES✌!!!
 <img src="https://github.com/vvHacker007/vvHacker007/blob/master/check this.gif" alt="check_my_repos" width="300" align="left" /> 
