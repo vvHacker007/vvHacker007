@@ -1,5 +1,5 @@
 # Hello there👋🏻 Computer Geeks👨🏻‍💻
-<img src="https://github.com/vvHacker007/vvHacker007/blob/master/Welcome.gif" alt="welcome" width="300"/>
+<img src="https://github.com/vvHacker007/vvHacker007/blob/master/Welcome.gif" alt="welcome" height="750" width="1500"/>
 <img src="https://komarev.com/ghpvc/?username=vvHacker007&color=brightgreen&label=Visits"/>
 
 ## Vedansh here🙋🏻‍♂️
