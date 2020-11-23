@@ -1,5 +1,4 @@
 # Hello there👋🏻 Computer Geeks👨🏻‍💻
-<img src="https://github.com/vvHacker007/vvHacker007/blob/master/Welcome.gif" alt="welcome" width="300"/>
 <img src="https://komarev.com/ghpvc/?username=vvHacker007&color=brightgreen&label=Visits"/>
 
 ## Vedansh here🙋🏻‍♂️
@@ -11,7 +10,7 @@ I'm a Sophomore🎓 pursuing Computer-Science-Engineering from SRMIST,KTR.I'm a 
 
 🌱 I’m currently learning Deep Learning & Computer Vision.
 
-<img src="https://github.com/vvHacker007/vvHacker007/blob/master/image.jpg" alt="computer" width="300"/>
+<img align="right" src="https://github.com/vvHacker007/vvHacker007/blob/master/image.jpg" alt="computer" width="300"/>
 
 <details>
   <summary>:zap: Github Stats</summary>
@@ -44,32 +43,3 @@ I'm a Sophomore🎓 pursuing Computer-Science-Engineering from SRMIST,KTR.I'm a 
 </p>
 
 ## MEANWHILE FEEL FREE TO CHECKOUT MY REPOSITORIES✌!!!
-<img src="https://github.com/vvHacker007/vvHacker007/blob/master/check this.gif" alt="check_my_repos" width="300" align="left" /> 
-<img src="https://github.com/vvHacker007/vvHacker007/blob/master/Thanks.gif" alt="Thank_you" width="300"/> 
-
-
-
-<!--
-<div>
-  <p><img align="left" width="420" height="350" src=""></p>
-  <p><img align="right" src="![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966](https://user-images.githubusercontent.com/60468275/90991130-8d962700-e5c4-11ea-8d37-6ebc8e95bba8.gif)"></p>
-  <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-  </div>
-
-
- 
-
-<!--
-**vvHacker007/vvHacker007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 
-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
