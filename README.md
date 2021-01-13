@@ -15,7 +15,6 @@ I'm a Sophomore🎓 pursuing Computer-Science-Engineering from SRMIST,KTR.I'm a 
   <summary>:zap: Github Stats</summary>
   <br/>
   <p>
-    <img height="160" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvHacker007&layout=compact&show_icons=true&theme=tokyonight">
     <img height="160" width="400" src="https://github-readme-stats.vercel.app/api?username=vvHacker007&show_icons=true&theme=tokyonight">
     <img height="160" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=vvHacker007&show_icons=true&theme=tokyonight"/>
   <p>
