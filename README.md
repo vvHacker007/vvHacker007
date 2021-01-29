@@ -44,6 +44,6 @@ I'm a Sophomore🎓 pursuing Computer-Science-Engineering from SRMIST,KTR.I'm a 
   <a href="https://twitter.com/vedansh_v_"><img src="https://github.com/vvHacker007/vvHacker007/blob/master/Twitter.png" height="30px" width="30px" alt="Twitter"></a>
   <a href="https://www.instagram.com/vedv_2002/"><img src="https://github.com/vvHacker007/vvHacker007/blob/master/Instagram.png" height="30px" width="30px" alt="Instagram"></a>
 </p>
-
+<br>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ### Meanwhile feel free to check out my repositories✌!!
