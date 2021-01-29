@@ -46,5 +46,4 @@ I'm a Sophomore🎓 pursuing Computer-Science-Engineering from SRMIST,KTR.I'm a 
 </p>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
 ### Meanwhile feel free to check out my repositories✌!!
