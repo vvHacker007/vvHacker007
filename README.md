@@ -5,7 +5,7 @@
 ### Here is something you should know about me😄  
 I'm a Sophomore🎓 pursuing Computer-Science-Engineering from SRMIST,KTR.I'm a result-driven self motivated student who aims to solve real-world problems using fast and efficient ML Models. I love❤ to learn about new developments in technology and ways to implement them. I love solving complex problems in C++ and Python using effective algorithms. Reading books, listening to music, watching & playing football are some of my hobbies.
 
-🔭 I’m currently doing contributions in an opensource event GSSOC 2021  
+🔭 I’m currently contributing to my personal projects in my private repositories, which i will make public as soon as i am done.
 🌱 I’m currently learning Deep Learning, Web Development & Computer Vision.
 
 <img align="right" src="https://github.com/vvHacker007/vvHacker007/blob/master/image.jpg" alt="computer" width="300"/>
