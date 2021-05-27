@@ -17,6 +17,8 @@ I'm a Sophomore🎓 pursuing Computer-Science-Engineering from SRMIST,KTR.I'm a 
   <p>
     <img height="160" width="400" src="https://github-readme-stats.vercel.app/api?username=vvHacker007&show_icons=true&theme=tokyonight">
     <img height="160" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=vvHacker007&show_icons=true&theme=tokyonight"/>
+    <img height="320" width="800" src="https://activity-graph.herokuapp.com/graph?username=vvHacker007&theme=react-dark"/>
+
   <p>
 </details>
 
