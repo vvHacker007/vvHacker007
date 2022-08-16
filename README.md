@@ -46,7 +46,7 @@ I'm in my final year of study as a student🎓 pursuing Computer-Science-Enginee
   <a href="mailto:vedanshv2002@gmail.com?subject = Hello from your GitHub README&body = Message"><img src="https://github.com/vvHacker007/vvHacker007/blob/master/Gmail.png" height="30px" width="30px" alt="Gmail" ></a>
   <a href="https://www.facebook.com/vedansh.vijaywargiya/"><img src="https://github.com/vvHacker007/vvHacker007/blob/master/Facebook.png" height="30px" width="30px" alt="Facebook"></a>
   <a href="https://twitter.com/vedansh_v_"><img src="https://github.com/vvHacker007/vvHacker007/blob/master/Twitter.png" height="30px" width="30px" alt="Twitter"></a>
-  <a href="https://www.instagram.com/vedv_2002/"><img src="https://github.com/vvHacker007/vvHacker007/blob/master/Instagram.png" height="30px" width="30px" alt="Instagram"></a>
+  <a href="https://www.instagram.com/sanecracker/"><img src="https://github.com/vvHacker007/vvHacker007/blob/master/Instagram.png" height="30px" width="30px" alt="Instagram"></a>
 </p>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
