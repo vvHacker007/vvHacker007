@@ -1,13 +1,13 @@
-<h1 align="center">< Hello there Computer Geeks👨🏻‍💻👋/></h1>
+<h1 align="center">< Hello there Tech Enthusiast👨🏻‍💻👋/></h1>
 <img src="https://komarev.com/ghpvc/?username=vvHacker007&color=brightgreen&label=Visits"/>
 
 ## Vedansh here🙋🏻‍♂️
 ### Here is something you should know about me😄  
-I'm in my final year of study as a student🎓 pursuing Computer-Science-Engineering from SRMIST,KTR.I'm a result-driven self motivated student who aims to solve real-world problems using fast and efficient approaches. I love❤ to learn about new developments in technology and ways to implement them. I love solving complex problems using effective algorithms. Reading books, listening to music, watching & playing football are some of my hobbies.
+I'm a Computer-Science-Engineering graduate from SRMIST,KTR, currently working as an software engineer at Tekion Corp. I'm a result-driven self motivated professional who aims to solve real-world problems using fast and efficient approaches. I love❤ to learn about new developments in technology and ways to implement them. I love solving complex problems using effective algorithms. Reading books, listening to music, watching & playing football are some of my hobbies.
 
 🔭 I’m currently contributing to my personal projects which will be open-sourced soon.
 
-🌱 I’m currently learning DevOps, Computer Vision & Distributed Systems.
+🌱 I’m currently learning Cloud Infrastructure, Microservice Architecture & Distributed Systems.
 
 <img align="right" src="https://github.com/vvHacker007/vvHacker007/blob/master/image.jpg" alt="computer" width="300"/>
 <br/>
@@ -19,7 +19,7 @@ I'm in my final year of study as a student🎓 pursuing Computer-Science-Enginee
     <img height="160" width="400" src="https://github-readme-stats.vercel.app/api?username=vvHacker007&show_icons=true&theme=tokyonight">
     <img height="160" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=vvHacker007&show_icons=true&theme=tokyonight"/>
     <img height="160" width="400" src='https://github-readme-stats.vercel.app/api/top-langs/?username=vvHacker007&show_icons=true&theme=tokyonight&layout=compact'/>
-    <img height="320" width="800" src="https://activity-graph.herokuapp.com/graph?username=vvHacker007&theme=react-dark"/>
+<!--     <img height="320" width="800" src="https://activity-graph.herokuapp.com/graph?username=vvHacker007&theme=react-dark"/> -->
   <p>
 </details>
 
@@ -51,7 +51,7 @@ I'm in my final year of study as a student🎓 pursuing Computer-Science-Enginee
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code> <!-- CLI -->
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code> 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
 ### Connect with me🚀:  
 <p>
@@ -61,6 +61,9 @@ I'm in my final year of study as a student🎓 pursuing Computer-Science-Enginee
   <a href="https://twitter.com/vedansh_v_"><img src="https://github.com/vvHacker007/vvHacker007/blob/master/Twitter.png" height="30px" width="30px" alt="Twitter"></a>
   <a href="https://www.instagram.com/sanecracker/"><img src="https://github.com/vvHacker007/vvHacker007/blob/master/Instagram.png" height="30px" width="30px" alt="Instagram"></a>
 </p>
+
+#### Checkout my Portfolio Website💼:
+<a href="https://www.vedanshvijay.in/">vedanshvijay.in</a>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
