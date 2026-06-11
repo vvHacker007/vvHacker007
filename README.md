@@ -3,7 +3,7 @@
 
 ## Vedansh here🙋🏻‍♂️
 ### Here is something you should know about me😄  
-I'm a Computer-Science-Engineering graduate from SRMIST,KTR, currently working as an software engineer at Tekion Corp. I'm a result-driven self motivated professional who aims to solve real-world problems using fast and efficient approaches. I love❤ to learn about new developments in technology and ways to implement them. I love solving complex problems using effective algorithms. Reading books, listening to music, watching & playing football are some of my hobbies.
+I'm a Computer-Science-Engineering graduate from SRMIST,KTR, currently working as an software engineer at Browserstack. I'm a result-driven self motivated professional who aims to solve real-world problems using fast and efficient approaches. I love❤ to learn about new developments in technology and ways to implement them. I love solving complex problems using effective algorithms. Reading books, listening to music, watching & playing football are some of my hobbies.
 
 🔭 I’m currently contributing to my personal projects which will be open-sourced soon.
 
